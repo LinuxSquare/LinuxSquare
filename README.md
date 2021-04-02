@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinuxSquare
 - 👀 I’m interested in Linux ofc and Minecraft Bukkit/Spigot Coding
-- 🌱 I’m currently learning Nothing, always getting better in languages I learned so far.
+- 🌱 I’m currently learning Node.JS
 - 💞️ I’m looking to collaborate on nowhere
 - 📫 How to reach me : @LinuxSquare
 
